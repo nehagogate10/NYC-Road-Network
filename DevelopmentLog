@@ -1,0 +1,27 @@
+WEEK 1:
+- Found NYC map dataset, collaborated on writing the final project proposal and team contract
+
+WEEK 2:
+- Created a Makefile for our project
+- Started creating classes. Created Node, Edge, and Graph classes
+- Made public and private variables based on what our dataset provided to us.
+- Starting to parse the node, edge and graph data given, in order to start creating our graph
+
+WEEK 3:
+- Worked on trying to parse the GraphML file, but ran into many issues and converted it to a CSV file for parsing
+- Reformatted/fixed the minor errors in the CSV in order for parsing to go smoothly
+- Successfully parsed the node and edge data files
+
+WEEK 4:
+- Finished BFS traversal, starting work on Kruskal algorithm and A* algorithm. 
+- Replaced CSV parsing with custom GraphML parsing (we created our own parser class)
+- Began test suite for algorithms
+
+WEEK 5:
+- Worked on and finished Kruskal's algorithm
+- Worked on and finished A* algorithm
+- Wrote the rest of our test suite, added thorough testing
+- Finished Results and README files
+- Created final presentation
+
+
