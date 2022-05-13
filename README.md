@@ -1,5 +1,4 @@
 # CS 225 Final Project
-## Team Members: Samarth Taneja (staneja3), Neha Gogate (ngogate2), Rachael Wei (rlwei2)
 
 ### Data
 The data set we used is the Street Network of Manhattan
